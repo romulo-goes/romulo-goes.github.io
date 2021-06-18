@@ -1,4 +1,4 @@
-I"s<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" />
+I"w<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" />
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
 
@@ -101,11 +101,11 @@ img.rounded-corners {
 
 <div class="bio">
 	<div class="row">
-		<div class="column left" style="margin-top: 4em;">	
+		<div class="column left" style="margin-top: 3em;">	
 			<div class="contact"> 
 				<p class="small" style="font-size:17px;text-align:center">Postdoctoral Researcher<br />
-				<a href="https://www.isri.cmu.edu/">Institute for Software Research</a>, Carnegie Mellon University<br />
-				<a href="https://ece.engin.umich.edu/">Electrical Engineering and Computer Science</a>, University of Michigan<br />
+				<a href="https://www.isri.cmu.edu/">Institute for Software Research</a><br /> Carnegie Mellon University; and<br />
+				<a href="https://ece.engin.umich.edu/">Electrical Engineering and Computer Science</a><br /> University of Michigan<br />
         Email: romulo [at] umich.edu
         </p>
       </div>
@@ -117,7 +117,7 @@ img.rounded-corners {
 			</div>
 		</div>
 		<div class="column right">
-			<div class="img"><img src="/assets/images/rmg-2020.jpg" style="width:400px;height:396px;" class="rounded-corners" /></div>
+			<div class="img"><img src="/assets/images/rmg-2020.jpg" style="width:300px;height:296px;" class="rounded-corners" /></div>
 		</div>
 	</div>
   
@@ -144,7 +144,7 @@ img.rounded-corners {
 </div>
 
 <div class="Projects">
-	<h2><a href="romulo-goes.github.io/projects">Projects</a></h2>
+	<h2><a href="/projects">Projects</a></h2>
 	<p><strong> Resilience against cyber-attacks in cyber-physical systems</strong></p>
 	<p><strong> Robustness in discrete transition systems</strong></p>
 	<p><strong> Privacy in dynamical systems</strong></p>
@@ -160,6 +160,7 @@ img.rounded-corners {
 </p>
 </div>
 
+<!-- 
 <div class="strava-widget">
    <table class="strava-stats">
       <tr>
@@ -174,5 +175,5 @@ img.rounded-corners {
          <td><strong><?php echo $all_run_totals['distance']; ?></strong></td>
       </tr>
    </table>
-</div>
+</div> -->
 :ET

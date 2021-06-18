@@ -1,9 +1,6 @@
----
-layout: post
----
+I"w<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" />
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
 
 <style>
 * {
@@ -71,7 +68,7 @@ p.big {
   /* the height is adjusted automatically*/
 }
 .ai {
-  padding: 20px;
+  padding: 30px;
   font-size: 40px;
   width: 50px;
   text-align: center;
@@ -83,8 +80,8 @@ p.big {
   opacity: 0.7;
 }
 .fa {
-  padding: 20px;
-  font-size:30px;
+  padding: 30px;
+  font-size:40px;
   width: 50px;
   text-align: center;
   text-decoration: none;
@@ -103,40 +100,40 @@ img.rounded-corners {
 </style>
 
 <div class="bio">
-	<div class = "row">
-		<div class = "column left" style="margin-top: 2em;">	
-			<div class = "contact"> 
-				<p class="small" style="font-size:17px;text-align:center">Postdoctoral Researcher<br>
-				<a href = "https://www.isri.cmu.edu/">Institute for Software Research</a><br> Carnegie Mellon University; and<br>
-				<a href = "https://ece.engin.umich.edu/">Electrical Engineering and Computer Science</a><br> University of Michigan<br>
+	<div class="row">
+		<div class="column left" style="margin-top: 2em;">	
+			<div class="contact"> 
+				<p class="small" style="font-size:17px;text-align:center">Postdoctoral Researcher<br />
+				<a href="https://www.isri.cmu.edu/">Institute for Software Research</a><br /> Carnegie Mellon University; and<br />
+				<a href="https://ece.engin.umich.edu/">Electrical Engineering and Computer Science</a><br /> University of Michigan<br />
         Email: romulo [at] umich.edu
         </p>
       </div>
-      <div class = "icons" style="margin-top: -2em;margin-left: 4em">
+      <div class="icons" style="margin-top: 1em;margin-left: 7em">
         <!-- <a class="fa fa-envelope" href="mailto:romulo@umich.edu"></a> -->
-        <a class="ai ai-google-scholar-square ai-3x" href="https://scholar.google.com/citations?user=IVN60_4AAAAJ&hl=en"></a>
+        <a class="ai ai-google-scholar-square ai-3x" href="https://scholar.google.com/citations?user=IVN60_4AAAAJ&amp;hl=en"></a>
         <a class="fa fa-github" href="https://github.com/romulo-goes"></a>
         <a class="fa fa-book" href="https://www.goodreads.com/user/show/126601317-romulo-meira-goes"></a>
 			</div>
 		</div>
-		<div class = "column right">
-			<div class = "img"><img src="/assets/images/rmg-2020.jpg" style="width:300px;height:296px;" class="rounded-corners"></div>
+		<div class="column right">
+			<div class="img"><img src="/assets/images/rmg-2020.jpg" style="width:300px;height:296px;" class="rounded-corners" /></div>
 		</div>
 	</div>
   
 
 </div>
 
-<div class = "Research">
+<div class="Research">
 	<p>
 		My main area of research is in the interface of dynamical systems, formal methods, and control systems.
 		I am particulaly interested in analyzing resilience of control systems and designing resilient correct-by-construction safe and secure control systems.
-		My research considers both resiliency against benign malfunctions/uncertainties and malicious attacks.<br>
+		My research considers both resiliency against benign malfunctions/uncertainties and malicious attacks.<br />
 		Supervisory control; formal methods; cyber-physical systems; security; reactive systems.
 </p>
 </div>
 
-<div class= "News">
+<div class="News">
 	<h2>Latest News</h2>
   <ul>
   <li>01/12/2021 - Our paper about robustness against sensor deception cyber-attacks is in press at the IEEE TAC journal</li>
@@ -146,23 +143,22 @@ img.rounded-corners {
 </ul>
 </div>
 
-<div class= "Projects">
-	<h2><a href = "{{ site.baseurl }}/projects">Projects</a></h2>
+<div class="Projects">
+	<h2><a href="/projects">Projects</a></h2>
 	<p><strong> Resilience against cyber-attacks in cyber-physical systems</strong></p>
 	<p><strong> Robustness in discrete transition systems</strong></p>
 	<p><strong> Privacy in dynamical systems</strong></p>
 </div>
 
-<div class = "Bio">
+<div class="Bio">
 <h2>Bio</h2>
 <p>
 	I am currently a Postdoctoral Researcher with joint appointments at the Institute for Software Research at the Carnegie Mellon University and the Deparment of Electrical Engineering and Computer Science at the University of Michigan. 
-	At my postdoctoral position, I am advised by <a href = "https://eskang.github.io/">Eunsuk Kang</a>, <a href = "https://www.khoury.northeastern.edu/people/stavros-tripakis/">Stavros Tripakis</a> and <a href = "https://wiki.eecs.umich.edu/stephane/index.php/Main_Page">Stéphane Lafortune</a>.
+	At my postdoctoral position, I am advised by <a href="https://eskang.github.io/">Eunsuk Kang</a>, <a href="https://www.khoury.northeastern.edu/people/stavros-tripakis/">Stavros Tripakis</a> and <a href="https://wiki.eecs.umich.edu/stephane/index.php/Main_Page">Stéphane Lafortune</a>.
 	I received my Ph.D. in Electrical and Computer Engineering from the University of Michigan in 2020, working with Stéphane Lafortune.
-	Prior University of Michigan, I earned my B.S. degree in Electrical Engineering from the <a href = "http://portal.utfpr.edu.br/campus/curitiba">Universidade Technológica Federal do Paraná - Curitiba</a> in 2015.
+	Prior University of Michigan, I earned my B.S. degree in Electrical Engineering from the <a href="http://portal.utfpr.edu.br/campus/curitiba">Universidade Technológica Federal do Paraná - Curitiba</a> in 2015.
 </p>
 </div>
-
 
 <!-- 
 <div class="strava-widget">
@@ -180,3 +176,4 @@ img.rounded-corners {
       </tr>
    </table>
 </div> -->
+:ET

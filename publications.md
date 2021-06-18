@@ -1,6 +1,6 @@
 ---
-layout: post
-<!-- title: Publication -->
+layout: page
+title: Publication
 permalink: "/publications/"
 ---
 
