@@ -4,7 +4,7 @@
  <title>Rômulo Meira-Góes</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2021-06-17T20:10:25-04:00</updated>
+ <updated>2021-06-21T19:00:38-04:00</updated>
  <id></id>
  <author>
    <name>Rômulo Meira Góes</name>
@@ -155,10 +155,10 @@ img.rounded-corners {
 &lt;div class=&quot;News&quot;&gt;
 	&lt;h2&gt;Latest News&lt;/h2&gt;
   &lt;ul&gt;
-  &lt;li&gt;01/12/2021 - Our paper about robustness against sensor deception cyber-attacks is in press at the IEEE TAC journal&lt;/li&gt;
+  &lt;li&gt;06/20/2021 - Our paper about synthesis of optimal multi-objective attack strategies is in print at the IEEE TAC journal&lt;/li&gt;
+  &lt;li&gt;01/12/2021 - Our paper about robustness against sensor deception cyber-attacks is in print at the IEEE TAC journal&lt;/li&gt;
   &lt;li&gt;01/01/2021 - I have started my postdoctoral at CMU&lt;/li&gt;
   &lt;li&gt;10/30/2020 - I have succesfully defended my doctoral thesis&lt;/li&gt;
-  &lt;li&gt;07/15/2021 - Our paper about synthesis of sensor deception cyber-attacks is in press at Automatica&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 

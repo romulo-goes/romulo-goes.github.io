@@ -1,4 +1,4 @@
-I"y<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" />
+I"ç<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" />
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
 
@@ -80,8 +80,8 @@ p.big {
   opacity: 0.7;
 }
 .fa {
-  padding: 2  0px;
-  font-size:40px;
+  padding: 20px;
+  font-size:30px;
   width: 50px;
   text-align: center;
   text-decoration: none;
@@ -109,7 +109,7 @@ img.rounded-corners {
         Email: romulo [at] umich.edu
         </p>
       </div>
-      <div class="icons" style="margin-top: 1em;margin-left: 7em">
+      <div class="icons" style="margin-top: -2em;margin-left: 4em">
         <!-- <a class="fa fa-envelope" href="mailto:romulo@umich.edu"></a> -->
         <a class="ai ai-google-scholar-square ai-3x" href="https://scholar.google.com/citations?user=IVN60_4AAAAJ&amp;hl=en"></a>
         <a class="fa fa-github" href="https://github.com/romulo-goes"></a>
@@ -136,10 +136,10 @@ img.rounded-corners {
 <div class="News">
 	<h2>Latest News</h2>
   <ul>
-  <li>01/12/2021 - Our paper about robustness against sensor deception cyber-attacks is in press at the IEEE TAC journal</li>
+  <li>06/20/2021 - Our paper about synthesis of optimal multi-objective attack strategies is in print at the IEEE TAC journal</li>
+  <li>01/12/2021 - Our paper about robustness against sensor deception cyber-attacks is in print at the IEEE TAC journal</li>
   <li>01/01/2021 - I have started my postdoctoral at CMU</li>
   <li>10/30/2020 - I have succesfully defended my doctoral thesis</li>
-  <li>07/15/2021 - Our paper about synthesis of sensor deception cyber-attacks is in press at Automatica</li>
 </ul>
 </div>
 
