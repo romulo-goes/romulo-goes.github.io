@@ -4,7 +4,7 @@
  <title>Rômulo Meira-Góes</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2021-07-08T20:37:38-04:00</updated>
+ <updated>2022-05-14T14:39:33-04:00</updated>
  <id></id>
  <author>
    <name>Rômulo Meira Góes</name>
@@ -136,7 +136,7 @@ img.rounded-corners {
 			&lt;/div&gt;
 		&lt;/div&gt;
 		&lt;div class=&quot;column right&quot;&gt;
-			&lt;div class=&quot;img&quot;&gt;&lt;img src=&quot;/assets/images/rmg-2020.jpg&quot; style=&quot;width:300px;height:296px;&quot; class=&quot;rounded-corners&quot; /&gt;&lt;/div&gt;
+			&lt;div class=&quot;img&quot;&gt;&lt;img src=&quot;/assets/images/rmg-2021.jpg&quot; style=&quot;width:320px;height:340px;&quot; class=&quot;rounded-corners&quot; /&gt;&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
   
@@ -146,9 +146,9 @@ img.rounded-corners {
 &lt;div class=&quot;Research&quot;&gt;
 	&lt;p&gt;
 		My main area of research is in the interface of dynamical systems, formal methods, and control systems.
-		I am particulaly interested in analyzing resilience of control systems and designing resilient correct-by-construction safe and secure control systems.
-		My research considers both resiliency against benign malfunctions/uncertainties and malicious attacks.&lt;br /&gt;
-		Supervisory control; formal methods; cyber-physical systems; security; reactive systems.
+    I am particularly interested in analyzing the resilience of control systems and designing resilient correct-by-construction safe and secure control systems.
+    My research considers both resiliency against benign malfunctions/uncertainties and malicious attacks.&lt;br /&gt;
+    Supervisory control; formal methods; cyber-physical systems; security; reactive systems.
 &lt;/p&gt;
 &lt;/div&gt;
 
@@ -175,7 +175,7 @@ img.rounded-corners {
 	I am currently a Postdoctoral Researcher with joint appointments at the Institute for Software Research at the Carnegie Mellon University and the Deparment of Electrical Engineering and Computer Science at the University of Michigan. 
 	At my postdoctoral position, I am advised by &lt;a href=&quot;https://eskang.github.io/&quot;&gt;Eunsuk Kang&lt;/a&gt;, &lt;a href=&quot;https://www.khoury.northeastern.edu/people/stavros-tripakis/&quot;&gt;Stavros Tripakis&lt;/a&gt; and &lt;a href=&quot;https://wiki.eecs.umich.edu/stephane/index.php/Main_Page&quot;&gt;Stéphane Lafortune&lt;/a&gt;.
 	I received my Ph.D. in Electrical and Computer Engineering from the University of Michigan in 2020, working with Stéphane Lafortune.
-	Prior University of Michigan, I earned my B.S. degree in Electrical Engineering from the &lt;a href=&quot;http://portal.utfpr.edu.br/campus/curitiba&quot;&gt;Universidade Technológica Federal do Paraná - Curitiba&lt;/a&gt; in 2015.
+	Prior University of Michigan, I earned my B.S. degree in Electrical Engineering from the &lt;a href=&quot;http://portal.utfpr.edu.br/campus/curitiba&quot;&gt;Universidade Tecnológica Federal do Paraná - Curitiba&lt;/a&gt; in 2015.
 &lt;/p&gt;
 &lt;/div&gt;
 
