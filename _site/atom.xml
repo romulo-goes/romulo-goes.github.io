@@ -4,7 +4,7 @@
  <title>Rômulo Meira-Góes</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2022-05-14T15:28:42-04:00</updated>
+ <updated>2022-06-03T18:09:15-04:00</updated>
  <id></id>
  <author>
    <name>Rômulo Meira Góes</name>
@@ -154,11 +154,12 @@ img.rounded-corners {
 
 &lt;div class=&quot;News&quot;&gt;
 	&lt;h2&gt;Latest News&lt;/h2&gt;
-  &lt;ul&gt;
-  &lt;li&gt;04/2022 - I was selected to participate in the &lt;a href=&quot;https://cps-rising-stars2022.com/&quot;&gt;CPS Rising Stars Workshop 2022&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;04/2022 - I presented about our software &lt;a href=&quot;https://gitlab.eecs.umich.edu/M-DES-tools/desops/&quot;&gt;MDESops&lt;/a&gt; at the IEEE CSS TC DES &lt;a href=&quot;http://ieeecss.org/tc/discrete-event-systems/talk-series-2022/&quot;&gt;Virtual Talk Series 2022&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;04/2022 -  I will be serving on the AE program committee for &lt;a href=&quot;https://conferences.ncl.ac.uk/formats2022/&quot;&gt;FORMATS 2022&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;03/2022 - Our SEAMS 2022 paper got accepted: Run-Time Adaptation of Quality Attributes for Automated Planning. You can find the preprint here&lt;/li&gt;
+  &lt;ul style=&quot;list-style-type:none;margin: 0;padding-left:0;line-height:1.8&quot;&gt;
+  &lt;li&gt;&lt;b&gt;[06/2022]&lt;/b&gt; I am excitated to annouce that I will be joining the &lt;a href=&quot;https://www.eecs.psu.edu/&quot;&gt;Department of Electrical Engineering&lt;/a&gt; at &lt;a href=&quot;https://www.psu.edu/&quot;&gt;Penn State&lt;/a&gt; as an Assistant Professor in January 2023. &lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;[04/2022]&lt;/b&gt; I was selected to participate in the &lt;a href=&quot;https://cps-rising-stars2022.com/&quot;&gt;CPS Rising Stars Workshop 2022&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;[04/2022]&lt;/b&gt; I presented about the &lt;a href=&quot;https://gitlab.eecs.umich.edu/M-DES-tools/desops/&quot;&gt;MDESops tool&lt;/a&gt; at the IEEE CSS TC DES &lt;a href=&quot;http://ieeecss.org/tc/discrete-event-systems/talk-series-2022/&quot;&gt;Virtual Talk Series 2022&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;[04/2022]&lt;/b&gt; I will be serving on the AE program committee for &lt;a href=&quot;https://conferences.ncl.ac.uk/formats2022/&quot;&gt;FORMATS 2022&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;[04/2022]&lt;/b&gt; Our SEAMS 2022 paper got accepted: Run-Time Adaptation of Quality Attributes for Automated Planning. You can find the preprint &lt;a href=&quot;/assets/publications/wohlrab2022seams.pdf&quot;&gt;here&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 
