@@ -4,7 +4,7 @@
  <title>Rômulo Meira-Góes</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2022-06-03T18:09:15-04:00</updated>
+ <updated>2023-01-13T21:30:46-05:00</updated>
  <id></id>
  <author>
    <name>Rômulo Meira Góes</name>
@@ -32,7 +32,7 @@
   float: left;
 }
 .left {
-  width: 50%;
+  width: 25%;
 }
 
 .right {
@@ -83,13 +83,13 @@ p.big {
 /*SOCIAL MEDIA BUTTONS*/
 
 .sm_icon{
-  width: 50px;
+  width: 25px;
   /* the height is adjusted automatically*/
 }
 .ai {
   padding: 20px;
-  font-size: 40px;
-  width: 50px;
+  font-size: 20px;
+  width: 10px;
   text-align: center;
   text-decoration: none;
 }
@@ -100,8 +100,8 @@ p.big {
 }
 .fa {
   padding: 20px;
-  font-size:30px;
-  width: 50px;
+  font-size:20px;
+  width: 20px;
   text-align: center;
   text-decoration: none;
 }
@@ -120,23 +120,23 @@ img.rounded-corners {
 
 &lt;div class=&quot;bio&quot;&gt;
 	&lt;div class=&quot;row&quot;&gt;
-		&lt;div class=&quot;column left&quot; style=&quot;margin-top: 2em;&quot;&gt;	
+    &lt;div class=&quot;column left&quot;&gt;
+			&lt;div class=&quot;img&quot;&gt;&lt;img src=&quot;/assets/images/rmg-2021.jpg&quot; style=&quot;width:160px;height:170px;&quot; class=&quot;rounded-corners&quot; /&gt;&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;div class=&quot;column right&quot; style=&quot;margin-top: 0em;&quot;&gt;	
 			&lt;div class=&quot;contact&quot;&gt; 
-				&lt;p class=&quot;small&quot; style=&quot;font-size:17px;text-align:center&quot;&gt;Postdoctoral Researcher&lt;br /&gt;
-				&lt;a href=&quot;https://www.isri.cmu.edu/&quot;&gt;Institute for Software Research&lt;/a&gt;&lt;br /&gt; Carnegie Mellon University; and&lt;br /&gt;
-				&lt;a href=&quot;https://ece.engin.umich.edu/&quot;&gt;Electrical Engineering and Computer Science&lt;/a&gt;&lt;br /&gt; University of Michigan&lt;br /&gt;
-        Email: romulo [at] umich.edu
+				&lt;p class=&quot;small&quot; style=&quot;font-size:17px;text-align:left&quot;&gt;Assistant Professor&lt;br /&gt;
+				&lt;a href=&quot;https://www.eecs.psu.edu/&quot;&gt;Department of Electrical Engineering&lt;/a&gt;&lt;br /&gt; 
+        The Pennsylvania State University&lt;br /&gt;
+        romulo [at] psu.edu
         &lt;/p&gt;
       &lt;/div&gt;
-      &lt;div class=&quot;icons&quot; style=&quot;margin-top: -2em;margin-left: 4em&quot;&gt;
+      &lt;div class=&quot;icons&quot; style=&quot;margin-top: -2em;margin-left: -1em&quot;&gt;
         &lt;!-- &lt;a class=&quot;fa fa-envelope&quot; href=&quot;mailto:romulo@umich.edu&quot;&gt;&lt;/a&gt; --&gt;
-        &lt;a class=&quot;ai ai-google-scholar-square ai-3x&quot; href=&quot;https://scholar.google.com/citations?user=IVN60_4AAAAJ&amp;amp;hl=en&quot;&gt;&lt;/a&gt;
-        &lt;a class=&quot;fa fa-github&quot; href=&quot;https://github.com/romulo-goes&quot;&gt;&lt;/a&gt;
+        &lt;a class=&quot;ai ai-google-scholar-square &quot; href=&quot;https://scholar.google.com/citations?user=IVN60_4AAAAJ&amp;amp;hl=en&quot;&gt;&lt;/a&gt;
+        &lt;a class=&quot;fa fa-github fa-1x&quot; href=&quot;https://github.com/romulo-goes&quot;&gt;&lt;/a&gt;
         &lt;a class=&quot;fa fa-book&quot; href=&quot;https://www.goodreads.com/user/show/126601317-romulo-meira-goes&quot;&gt;&lt;/a&gt;
 			&lt;/div&gt;
-		&lt;/div&gt;
-		&lt;div class=&quot;column right&quot;&gt;
-			&lt;div class=&quot;img&quot;&gt;&lt;img src=&quot;/assets/images/rmg-2021.jpg&quot; style=&quot;width:320px;height:340px;&quot; class=&quot;rounded-corners&quot; /&gt;&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
   
@@ -144,22 +144,33 @@ img.rounded-corners {
 &lt;/div&gt;
 
 &lt;div class=&quot;Research&quot;&gt;
-	&lt;p&gt;
-		My main area of research is in the interface of dynamical systems, formal methods, and control systems.
-    I am particularly interested in analyzing the resilience of control systems and designing resilient correct-by-construction safe and secure control systems.
-    My research considers both resiliency against benign malfunctions/uncertainties and malicious attacks.&lt;br /&gt;
+&lt;p style=&quot;font-size:17px;text-align: justify;text-justify: inter-word;&quot;&gt;
+		My main area of research is in the interface of dynamical systems, formal methods, and control systems. I am particularly interested in analyzing the resilience of control systems and designing resilient correct-by-construction safe and secure control systems.  My research considers both resiliency against benign malfunctions/uncertainties and malicious attacks.&lt;br /&gt;
     Supervisory control; formal methods; cyber-physical systems; security; reactive systems.
+&lt;/p&gt;
+&lt;div class=&quot;Recruit&quot; style=&quot;font-size:17px;text-align: justify;text-justify: inter-word;background-color: rgba(106, 159, 181, 0.3);&quot;&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;
+&lt;b&gt;I am recruiting Ph.D. students for Fall 2023&lt;/b&gt;&lt;/p&gt;
+&lt;p style=&quot;margin-top: -1em;&quot;&gt;
+I am also seeking for graduate and undergraduate students to join our lab. Please send me your CV, if you are interested. 
 &lt;/p&gt;
 &lt;/div&gt;
 
+&lt;/div&gt;
+
 &lt;div class=&quot;News&quot;&gt;
-	&lt;h2&gt;Latest News&lt;/h2&gt;
-  &lt;ul style=&quot;list-style-type:none;margin: 0;padding-left:0;line-height:1.8&quot;&gt;
-  &lt;li&gt;&lt;b&gt;[06/2022]&lt;/b&gt; I am excitated to annouce that I will be joining the &lt;a href=&quot;https://www.eecs.psu.edu/&quot;&gt;Department of Electrical Engineering&lt;/a&gt; at &lt;a href=&quot;https://www.psu.edu/&quot;&gt;Penn State&lt;/a&gt; as an Assistant Professor in January 2023. &lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;[04/2022]&lt;/b&gt; I was selected to participate in the &lt;a href=&quot;https://cps-rising-stars2022.com/&quot;&gt;CPS Rising Stars Workshop 2022&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;[04/2022]&lt;/b&gt; I presented about the &lt;a href=&quot;https://gitlab.eecs.umich.edu/M-DES-tools/desops/&quot;&gt;MDESops tool&lt;/a&gt; at the IEEE CSS TC DES &lt;a href=&quot;http://ieeecss.org/tc/discrete-event-systems/talk-series-2022/&quot;&gt;Virtual Talk Series 2022&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;[04/2022]&lt;/b&gt; I will be serving on the AE program committee for &lt;a href=&quot;https://conferences.ncl.ac.uk/formats2022/&quot;&gt;FORMATS 2022&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;[04/2022]&lt;/b&gt; Our SEAMS 2022 paper got accepted: Run-Time Adaptation of Quality Attributes for Automated Planning. You can find the preprint &lt;a href=&quot;/assets/publications/wohlrab2022seams.pdf&quot;&gt;here&lt;/a&gt;&lt;/li&gt;
+	&lt;h2&gt;&lt;b style=&quot;font-size:22px&quot;&gt;Latest News&lt;/b&gt;&lt;/h2&gt;
+  &lt;ul style=&quot;list-style-type:none;margin: 0;padding-left:0;line-height:1.5;font-size:15px&quot;&gt;
+  &lt;li&gt;&lt;b&gt;[01/2023]&lt;/b&gt; I joined the &lt;a href=&quot;https://www.eecs.psu.edu/&quot;&gt;Department of Electrical Engineering&lt;/a&gt; at &lt;a href=&quot;https://www.psu.edu/&quot;&gt;Penn State&lt;/a&gt; as an Assistant Professor. &lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;[01/2023]&lt;/b&gt; Our paper &quot;Dealing with sensor and actuator deception attacks in supervisory control&quot; has been published in &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0005109822006021/&quot;&gt;Automatica&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;[12/2022]&lt;/b&gt; Our paper &quot;Robustification of Behavioral Designs against Environmental Deviations&quot; has been accepted at  &lt;a href=&quot;https://conf.researchr.org/details/icse-2023/icse-2023-technical-track/87/Robustification-of-Behavioral-Designs-against-Environmental-Deviations&quot;&gt;ICSE 2023&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;[12/2022]&lt;/b&gt; New work on runtime resolution interaction has been accepted at SEAMS 2023.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;[09/2022]&lt;/b&gt; Our work on robust and permissive controllers has been accepted at &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S2405896322023758&quot;&gt;WODES 2022&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;[06/2022]&lt;/b&gt; I am excited to announce that I will be joining the &lt;a href=&quot;https://www.eecs.psu.edu/&quot;&gt;Department of Electrical Engineering&lt;/a&gt; at &lt;a href=&quot;https://www.psu.edu/&quot;&gt;Penn State&lt;/a&gt; as an Assistant Professor in January 2023. &lt;/li&gt;
+  &lt;!-- &lt;li&gt;&lt;b&gt;[04/2022]&lt;/b&gt; I was selected to participate in the &lt;a href = &quot;https://cps-rising-stars2022.com/&quot;&gt;CPS Rising Stars Workshop 2022&lt;/a&gt;&lt;/li&gt; --&gt;
+  &lt;!-- &lt;li&gt;&lt;b&gt;[04/2022]&lt;/b&gt; I presented about the &lt;a href = &quot;https://gitlab.eecs.umich.edu/M-DES-tools/desops/&quot;&gt;MDESops tool&lt;/a&gt; at the IEEE CSS TC DES &lt;a href = &quot;http://ieeecss.org/tc/discrete-event-systems/talk-series-2022/&quot;&gt;Virtual Talk Series 2022&lt;/a&gt;&lt;/li&gt; --&gt;
+  &lt;!-- &lt;li&gt;&lt;b&gt;[04/2022]&lt;/b&gt; I will be serving on the AE program committee for &lt;a href = &quot;https://conferences.ncl.ac.uk/formats2022/&quot;&gt;FORMATS 2022&lt;/a&gt;&lt;/li&gt; --&gt;
+  &lt;!-- &lt;li&gt;&lt;b&gt;[04/2022]&lt;/b&gt; Our SEAMS 2022 paper got accepted: Run-Time Adaptation of Quality Attributes for Automated Planning. You can find the preprint &lt;a href = &quot;/assets/publications/wohlrab2022seams.pdf&quot;&gt;here&lt;/a&gt;&lt;/li&gt; --&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 
@@ -169,16 +180,6 @@ img.rounded-corners {
 	&lt;p&gt;&lt;strong&gt; Robustness in discrete transition systems&lt;/strong&gt;&lt;/p&gt;
 	&lt;p&gt;&lt;strong&gt; Privacy in dynamical systems&lt;/strong&gt;&lt;/p&gt;
 &lt;/div&gt; --&gt;
-
-&lt;div class=&quot;Bio&quot;&gt;
-&lt;h2&gt;Bio&lt;/h2&gt;
-&lt;p&gt;
-	I am currently a Postdoctoral Researcher with joint appointments at the Institute for Software Research at the Carnegie Mellon University and the Deparment of Electrical Engineering and Computer Science at the University of Michigan. 
-	At my postdoctoral position, I am advised by &lt;a href=&quot;https://eskang.github.io/&quot;&gt;Eunsuk Kang&lt;/a&gt;, &lt;a href=&quot;https://www.khoury.northeastern.edu/people/stavros-tripakis/&quot;&gt;Stavros Tripakis&lt;/a&gt; and &lt;a href=&quot;https://wiki.eecs.umich.edu/stephane/index.php/Main_Page&quot;&gt;Stéphane Lafortune&lt;/a&gt;.
-	I received my Ph.D. in Electrical and Computer Engineering from the University of Michigan in 2020, working with Stéphane Lafortune.
-	Prior University of Michigan, I earned my B.S. degree in Electrical Engineering from the &lt;a href=&quot;http://portal.utfpr.edu.br/campus/curitiba&quot;&gt;Universidade Tecnológica Federal do Paraná - Curitiba&lt;/a&gt; in 2015.
-&lt;/p&gt;
-&lt;/div&gt;
 
 &lt;!-- 
 &lt;div class=&quot;strava-widget&quot;&gt;
