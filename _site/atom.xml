@@ -4,7 +4,7 @@
  <title>Rômulo Meira-Góes</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2023-06-22T13:25:43-04:00</updated>
+ <updated>2023-08-20T11:45:30-04:00</updated>
  <id></id>
  <author>
    <name>Rômulo Meira Góes</name>
@@ -158,16 +158,23 @@ I am also looking for graduate and undergraduate students to join our lab. Pleas
 
 &lt;/div&gt;
 
+&lt;p style=&quot;padding: 1px; border: 3px solid blue;font-size:17px;&quot;&gt;I will be on the program committe for &lt;a href=&quot;https://wodes2024.eventos.ufrj.br&quot;&gt; the Workshop in Discrete Event Systems (WODES) 2024&lt;/a&gt; in Rio de Janeiro. Please consider submitting your work to WODES.&lt;/p&gt;
+
 &lt;div class=&quot;News&quot;&gt;
 	&lt;h2&gt;&lt;b style=&quot;font-size:22px&quot;&gt;Latest News&lt;/b&gt;&lt;/h2&gt;
   &lt;ul style=&quot;list-style-type:none;margin: 0;padding-left:0;line-height:1.5;font-size:15px&quot;&gt;
+  
+  &lt;li&gt;&lt;b&gt;[08/2023]&lt;/b&gt; I have presented our new work on robustness for discrete systems at Stéphane Lafortune&apos;s celebratory conference &lt;a href=&quot;https://desb.engin.umich.edu/&quot;&gt;From Discrete Event Systems to Beyond: Symposium honoring Prof. Stéphane Lafortune on the occasion of his 65th birthday&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;[07/2023]&lt;/b&gt; I will be on the program committe for &lt;a href=&quot;https://wodes2024.eventos.ufrj.br&quot;&gt;WODES 2024&lt;/a&gt; in Rio de Janeiro. Please, consider submitting your work to WODES.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;[07/2023]&lt;/b&gt; I will be on the program committe for &lt;a href=&quot;hhttps://iccps.acm.org/2024/index.html&quot;&gt;ICCPS 2024&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;[07/2023]&lt;/b&gt; Our new tool Fortis for Analysis and Repair of Robust Software Systems will be apper in &lt;a href=&quot;https://fmcad.org/FMCAD23/&quot;&gt; FMCAD 2023&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;[05/2023]&lt;/b&gt; New work on risk-tolerance of manufacturing systems has been accepted at &lt;a href=&quot;https://ieeeccta.org/&quot;&gt;CCTA 2023.&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;[04/2023]&lt;/b&gt; Our new work on &lt;a href=&quot;https://arxiv.org/pdf/2306.01025.pdf&quot;&gt;robustness in discrete systems&lt;/a&gt; has been accepted at the &lt;a href=&quot;http://www.i-cav.org/2023/&quot;&gt; CAV 2023.&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;[03/2023]&lt;/b&gt; Our paper discussing our open-source &lt;a href=&quot;https://gitlab.eecs.umich.edu/M-DES-tools/desops&quot;&gt;MDESops Python Library&lt;/a&gt; and its application has been accepted at the IFAC World Congress 2023.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;[03/2023]&lt;/b&gt; Our invited session on &quot;On Software Tools and Applications of Discrete Event Systems&quot; has been accepted at the IFAC World Congress 2023.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;[01/2023]&lt;/b&gt; New work on &quot;Risk-Averse Model Predictive Control for Priced Timed Automata&quot; has been accepted at ACC 2023.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;[01/2023]&lt;/b&gt; I joined the &lt;a href=&quot;https://www.eecs.psu.edu/&quot;&gt;Department of Electrical Engineering&lt;/a&gt; at &lt;a href=&quot;https://www.psu.edu/&quot;&gt;Penn State&lt;/a&gt; as an Assistant Professor. &lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;[01/2023]&lt;/b&gt; Our paper &quot;Dealing with sensor and actuator deception attacks in supervisory control&quot; has been published in &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0005109822006021/&quot;&gt;Automatica&lt;/a&gt;.&lt;/li&gt;
+  &lt;!-- &lt;li&gt;&lt;b&gt;[03/2023]&lt;/b&gt; Our invited session on &quot;On Software Tools and Applications of Discrete Event Systems&quot; has been accepted at the IFAC World Congress 2023.&lt;/li&gt; --&gt;
+  &lt;!-- &lt;li&gt;&lt;b&gt;[01/2023]&lt;/b&gt; New work on &quot;Risk-Averse Model Predictive Control for Priced Timed Automata&quot; has been accepted at ACC 2023.&lt;/li&gt; --&gt;
+  &lt;!-- &lt;li&gt;&lt;b&gt;[01/2023]&lt;/b&gt; I joined the &lt;a href = &quot;https://www.eecs.psu.edu/&quot;&gt;Department of Electrical Engineering&lt;/a&gt; at &lt;a href = &quot;https://www.psu.edu/&quot;&gt;Penn State&lt;/a&gt; as an Assistant Professor. &lt;/li&gt; --&gt;
+  &lt;!-- &lt;li&gt;&lt;b&gt;[01/2023]&lt;/b&gt; Our paper &quot;Dealing with sensor and actuator deception attacks in supervisory control&quot; has been published in &lt;a href = &quot;https://www.sciencedirect.com/science/article/pii/S0005109822006021/&quot;&gt;Automatica&lt;/a&gt;.&lt;/li&gt; --&gt;
   &lt;!-- &lt;li&gt;&lt;b&gt;[12/2022]&lt;/b&gt; Our paper &quot;Robustification of Behavioral Designs against Environmental Deviations&quot; has been accepted at  &lt;a href = &quot;https://conf.researchr.org/details/icse-2023/icse-2023-technical-track/87/Robustification-of-Behavioral-Designs-against-Environmental-Deviations&quot;&gt;ICSE 2023&lt;/a&gt;.&lt;/li&gt; --&gt;
   &lt;!-- &lt;li&gt;&lt;b&gt;[12/2022]&lt;/b&gt; New work on runtime resolution interaction has been accepted at SEAMS 2023.&lt;/li&gt; --&gt;
   &lt;!-- &lt;li&gt;&lt;b&gt;[09/2022]&lt;/b&gt; Our work on robust and permissive controllers has been accepted at &lt;a href = &quot;https://www.sciencedirect.com/science/article/pii/S2405896322023758&quot;&gt;WODES 2022&lt;/a&gt;.&lt;/li&gt; --&gt;

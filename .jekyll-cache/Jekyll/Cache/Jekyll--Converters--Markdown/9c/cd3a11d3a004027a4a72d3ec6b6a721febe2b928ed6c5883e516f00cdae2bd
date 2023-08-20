@@ -1,114 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-us">
-
-  <head>
-  <link href="http://gmpg.org/xfn/11" rel="profile">
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-
-  <title>
-    
-      Main Info &middot; Rômulo Meira-Góes
-    
-  </title>
-
-  
-  <link rel="canonical" href="/2021/06/08/main-info.html">
-  
-
-  <link rel="stylesheet" href="/public/css/poole.css">
-  <link rel="stylesheet" href="/public/css/syntax.css">
-  <link rel="stylesheet" href="/public/css/lanyon.css">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
-
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-precomposed.png">
-  <link rel="shortcut icon" href="/public/favicon.ico">
-
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
-
-  <!--  -->
-</head>
-
-
-  <body class="theme-base-0d sidebar-overlay">
-
-    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
-     styles, `#sidebar-checkbox` for behavior. -->
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
-
-<!-- Toggleable sidebar -->
-<div class="sidebar" id="sidebar">
-  <div class="sidebar-item">
-    <p></p>
-  </div>
-
-  <nav class="sidebar-nav">
-    <a class="sidebar-nav-item" href="/">Home</a>
-
-    
-
-    
-    
-      
-        
-      
-    
-      
-        
-      
-    
-      
-    
-      
-        
-          <a class="sidebar-nav-item" href="/bio">Bio</a>
-        
-      
-    
-      
-        
-          <a class="sidebar-nav-item" href="/projects">Projects</a>
-        
-      
-    
-      
-        
-          <a class="sidebar-nav-item" href="/publications/">Publication</a>
-        
-      
-    
-
-    <!-- <a class="sidebar-nav-item" href="/archive/v1.1.0.zip">Download</a> -->
-    <!-- <a class="sidebar-nav-item" href="">GitHub project</a> -->
-    <!-- <span class="sidebar-nav-item">Currently v1.1.0</span> -->
-  </nav>
-
-  <div class="sidebar-item">
-    <p>
-      &copy; 2023. All rights reserved.
-    </p>
-  </div>
-</div>
-
-
-    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
-         content to avoid any CSS collisions with our real content. -->
-    <div class="wrap">
-      <div class="masthead">
-        <div class="container">
-          <h3 class="masthead-title">
-            <a href="/" title="Home">Rômulo Meira-Góes</a>
-            <small></small>
-          </h3>
-        </div>
-      </div>
-
-      <div class="container content" style="margin-top: -2.5em;">
-        <div class="post">
-  <h1 class="post-title">Main Info</h1>
-  <span class="post-date">08 Jun 2021</span>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" />
+I"� <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" />
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
 
@@ -249,16 +139,12 @@ I am also looking for graduate and undergraduate students to join our lab. Pleas
 
 </div>
 
-<p style="padding: 1px; border: 3px solid blue;font-size:17px;">I will be on the program committe for <a href="https://wodes2024.eventos.ufrj.br"> the Workshop in Discrete Event Systems (WODES) 2024</a> in Rio de Janeiro. Please consider submitting your work to WODES.</p>
-
 <div class="News">
 	<h2><b style="font-size:22px">Latest News</b></h2>
   <ul style="list-style-type:none;margin: 0;padding-left:0;line-height:1.5;font-size:15px">
-  
-  <li><b>[08/2023]</b> I have presented our new work on robustness for discrete systems at Stéphane Lafortune's celebratory conference <a href="https://desb.engin.umich.edu/">From Discrete Event Systems to Beyond: Symposium honoring Prof. Stéphane Lafortune on the occasion of his 65th birthday</a></li>
-  <li><b>[07/2023]</b> I will be on the program committe for <a href="https://wodes2024.eventos.ufrj.br">WODES 2024</a> in Rio de Janeiro. Please, consider submitting your work to WODES.</li>
+  <li><p style="padding: 2px; border: 3px solid blue;"><b>[07/2023]</b> I will be on the program committe for <a href="https://wodes2024.eventos.ufrj.br">WODES 2024</a> in Rio de Janeiro. Consider submitting your papers to this conference.&lt;/li&gt;</p>
+  <li><b>[08/2023]</b> I have presented our new work on robustness of discrete systems at Stéphane Lafortune's celebratory conference <a href="https://desb.engin.umich.edu/">From Discrete Event Systems to Beyond: Symposium honoring Prof. Stéphane Lafortune on the occasion of his 65th birthday</a></li>
   <li><b>[07/2023]</b> I will be on the program committe for <a href="hhttps://iccps.acm.org/2024/index.html">ICCPS 2024</a>.</li>
-  <li><b>[07/2023]</b> Our new tool Fortis for Analysis and Repair of Robust Software Systems will be apper in <a href="https://fmcad.org/FMCAD23/"> FMCAD 2023</a>.</li>
   <li><b>[05/2023]</b> New work on risk-tolerance of manufacturing systems has been accepted at <a href="https://ieeeccta.org/">CCTA 2023.</a></li>
   <li><b>[04/2023]</b> Our new work on <a href="https://arxiv.org/pdf/2306.01025.pdf">robustness in discrete systems</a> has been accepted at the <a href="http://www.i-cav.org/2023/"> CAV 2023.</a></li>
   <li><b>[03/2023]</b> Our paper discussing our open-source <a href="https://gitlab.eecs.umich.edu/M-DES-tools/desops">MDESops Python Library</a> and its application has been accepted at the IFAC World Congress 2023.</li>
@@ -274,8 +160,8 @@ I am also looking for graduate and undergraduate students to join our lab. Pleas
   <!-- <li><b>[04/2022]</b> I presented about the <a href = "https://gitlab.eecs.umich.edu/M-DES-tools/desops/">MDESops tool</a> at the IEEE CSS TC DES <a href = "http://ieeecss.org/tc/discrete-event-systems/talk-series-2022/">Virtual Talk Series 2022</a></li> -->
   <!-- <li><b>[04/2022]</b> I will be serving on the AE program committee for <a href = "https://conferences.ncl.ac.uk/formats2022/">FORMATS 2022</a></li> -->
   <!-- <li><b>[04/2022]</b> Our SEAMS 2022 paper got accepted: Run-Time Adaptation of Quality Attributes for Automated Planning. You can find the preprint <a href = "/assets/publications/wohlrab2022seams.pdf">here</a></li> -->
-</ul>
-</div>
+&lt;/ul&gt;
+&lt;/div&gt;
 
 <!-- <div class= "Projects">
 	<h2><a href = "/projects">Projects</a></h2>
@@ -283,6 +169,9 @@ I am also looking for graduate and undergraduate students to join our lab. Pleas
 	<p><strong> Robustness in discrete transition systems</strong></p>
 	<p><strong> Privacy in dynamical systems</strong></p>
 </div> -->
+
+
+
 
 <!-- 
 <div class="strava-widget">
@@ -300,16 +189,5 @@ I am also looking for graduate and undergraduate students to join our lab. Pleas
       </tr>
    </table>
 </div> -->
-
-</div>
-
-
-
-      </div>
-    </div>
-
-    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
-
-    <script src='/public/js/script.js'></script>
-  </body>
-</html>
+</li></ul></div>
+:ET
