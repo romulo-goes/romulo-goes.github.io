@@ -42,7 +42,7 @@ For programming experience, Python or C++ are preferred but Matlab scripting is 
 <ul style="font-size:16px;">
 	<li>Introduce with experiential learning basics concepts of robotics – hands-on robotics with autonomous vehicles robots</li>
 	<li>Use robotics topics – perception, kinematics, control, planning -  to demonstrate mathematical concepts – linear algebra, ODE, programming</li>
-	<li>Expose advanced topics in EE that are related to robotics – control theory, computer vision, machine learning, sensing and actuating</li>
+	<li>Explore advanced topics in EE that are related to robotics – control theory, computer vision, machine learning, sensing and actuating</li>
 	<li>Discuss the ethical principles and social impacts in the field robotics</li>
 </ul>
 
