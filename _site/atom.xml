@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Rômulo Meira-Góes</title>
- <link href="/atom.xml" rel="self"/>
- <link href="/"/>
- <updated>2023-08-20T11:45:30-04:00</updated>
- <id></id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2024-03-26T10:25:44-04:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Rômulo Meira Góes</name>
    <email>romulo@umich.edu</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Main Info</title>
-   <link href="/2021/06/08/main-info.html"/>
+   <link href="http://localhost:4000/2021/06/08/main-info.html"/>
    <updated>2021-06-08T00:00:00-04:00</updated>
-   <id>/2021/06/08/main-info</id>
+   <id>http://localhost:4000/2021/06/08/main-info</id>
    <content type="html">&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css&quot; /&gt;
 
 &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
