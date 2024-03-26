@@ -12,7 +12,7 @@ permalink: "/classes/ee483"
 	text-align: center;
 	}
   </style>
-
+<h2 class = "center"><b style="font-size:22px;">EE 483 - Introduction to Robotics</b></h2>
 <div class="image">
 <img src="/assets/images/ee483-f24.jpg" style="width:400px;height:226px;" class="center" />
 </div>
@@ -33,7 +33,7 @@ The course is also design to be accessible to sophomore and junior undergraduate
 </p>
 
 <strong>Prerequisites</strong>
-<p style="font-size:16px";>
+<p style="font-size:16px;">
 No prereq but it is recommended that students are familiar with some programming language, linear algebra and ordinary differential equations. 
 For programming experience, Python or C++ are preferred but Matlab scripting is also fine.
 </p>
