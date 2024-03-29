@@ -23,7 +23,7 @@ permalink: "/classes/ee483"
 	<li><strong>Instructor</strong>: Rômulo Meira-Góes</li>
 	<li><strong>Days</strong>: Time - TuTh 9:05AM - 10:20AM</li>
 	<li><strong>Location</strong>: 101 N. Atherton St Bldg 101</li>
-	<li><strong>Prereq</strong>: None necessary - Official prereq can be overridden</li>
+	<li><strong>Prereq</strong>: Math 250 and Math 220 and at least one course of CMPSC 131 or CMPSC 200 or CMPSC 201 - Official prereq can be overridden</li>
 </ul>
 
 <strong>General Information</strong>
@@ -34,8 +34,8 @@ The course is also design to be accessible to sophomore and junior undergraduate
 
 <strong>Prerequisites</strong>
 <p style="font-size:16px;">
-No prereq but it is recommended that students are familiar with some programming language, linear algebra and ordinary differential equations. 
-For programming experience, Python or C++ are preferred but Matlab scripting is also fine.
+Math 250 (Linear Algebra) and Math 220 (Diff. Eq.) and at least one course of CMPSC 131 or CMPSC 200 or CMPSC 201 (intro to programming)
+Official EE 481 prereq can be overridden as long as the above requirements are met. 
 </p>
 
 <strong>Class Goals</strong>
