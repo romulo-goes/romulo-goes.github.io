@@ -34,8 +34,8 @@ The course is also design to be accessible to sophomore and junior undergraduate
 
 <strong>Prerequisites</strong>
 <p style="font-size:16px;">
-Math 250 (Linear Algebra) and Math 220 (Diff. Eq.) and at least one course of CMPSC 131 or CMPSC 200 or CMPSC 201 (intro to programming)
-Official EE 481 prereq can be overridden as long as the above requirements are met. 
+Math 250 (Linear Algebra) and Math 220 (Diff. Eq.) and at least one course of CMPSC 131 or CMPSC 200 or CMPSC 201 (intro to programming).
+The official EE 481 prerequisite can be overridden as long as the above requirements are met. 
 </p>
 
 <strong>Class Goals</strong>
